@@ -2,7 +2,7 @@
   <br>
   <a href="http://walisongo.ac.id"><img src="https://kioslambang.files.wordpress.com/2014/10/wpid-logo_bmkg1.png" alt="BMKG" width="200"></a>
   <br>
-  Whentea BMKG Weather Parser
+  Whentea BMKG Weather Parser (1st forecasting)
   <br>
 </h1>
 
